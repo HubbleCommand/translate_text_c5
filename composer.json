@@ -3,7 +3,6 @@
     "type" : "concrete5-package",
     "description": "Package that helps to translate text without GlobalAreas in Concrete5",
     "require": {
-        "concrete5/core": ">=8.5.0",
         "sepia/po-parser" :"^6.0"
     },
     "autoload": {
